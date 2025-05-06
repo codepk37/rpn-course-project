@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<robot name="mesh_0">
+  <link name="mesh_0_link">
+    <visual>
+      <geometry>
+        <mesh filename="file:///media/pavan/STORAGE/linux_storage/RPN/RPN/rpn/experiment_dir/registered_meshes/filtered.obj" scale="1 1 1"/>
+      </geometry>
+      <material name="material_name">
+        <color rgba="1 0 0 1"/>  <!-- Example: Red color (R, G, B, A) -->
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="file:///media/pavan/STORAGE/linux_storage/RPN/RPN/rpn/experiment_dir/registered_meshes/filtered.obj" scale="1 1 1"/>
+      </geometry>
+    </collision>
+    <inertial>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <mass value="1"/>
+      <inertia ixx="0.01" ixy="0.0" ixz="0.0" iyy="0.01" iyz="0.0" izz="0.01"/>
+    </inertial>
+  </link>
+</robot>
+
