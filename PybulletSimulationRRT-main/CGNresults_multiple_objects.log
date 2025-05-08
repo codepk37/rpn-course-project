@@ -1,0 +1,215 @@
+Object: 002_master_chef_can, Command: python pipeline_vizrrt.py 002_master_chef_can 0
+Result: Success
+Object: 003_cracker_box, Command: python pipeline_vizrrt.py 003_cracker_box 0
+Result: Success
+Object: 004_sugar_box, Command: python pipeline_vizrrt.py 004_sugar_box 0
+Result: Success
+Object: 005_tomato_soup_can, Command: python pipeline_vizrrt.py 005_tomato_soup_can 0
+Result: Success
+
+
+Flat object 
+=009_gelatin_box
+ 008_pudling_box
+ 007_tuna_fish_can failed
+
+ Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 0
+Result: Failure
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 1
+Result: Failure
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 2
+Result: Failure
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 3
+Result: Failure
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 4
+Result: Failure
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 5
+Result: Failure
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 6
+Result: Failure
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 7
+Result: Failure
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 8
+Result: Failure
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 9
+Result: Failure
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 10
+Result: Failure
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 11
+Result: Unexpected Output
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 12
+Result: Unexpected Output
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 13
+Result: Unexpected Output
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 14
+Result: Unexpected Output
+
+Object: 007_tuna_fish_can, Command: python pipeline_vizrrt.py 007_tuna_fish_can 15
+Result: Unexpected Output
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 0
+Result: Failure
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 1
+Result: Failure
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 2
+Result: Failure
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 3
+Result: Failure
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 4
+Result: Failure
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 5
+Result: Failure
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 6
+Result: Failure
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 7
+Result: Failure
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 8
+Result: Unexpected Output
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 9
+Result: Unexpected Output
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 10
+Result: Unexpected Output
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 11
+Result: Unexpected Output
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 12
+Result: Unexpected Output
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 13
+Result: Unexpected Output
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 14
+Result: Unexpected Output
+
+Object: 008_pudding_box, Command: python pipeline_vizrrt.py 008_pudding_box 15
+Result: Unexpected Output
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 0
+Result: Failure
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 1
+Result: Failure
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 2
+Result: Failure
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 3
+Result: Failure
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 4
+Result: Failure
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 5
+Result: Failure
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 6
+Result: Failure
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 7
+Result: Failure
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 8
+Result: Unexpected Output
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 9
+Result: Unexpected Output
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 10
+Result: Unexpected Output
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 11
+Result: Failure
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 12
+Result: Failure
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 13
+Result: Failure
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 14
+Result: Failure
+
+Object: 009_gelatin_box, Command: python pipeline_vizrrt.py 009_gelatin_box 15
+Result: Unexpected Output
+
+Object: 010_potted_meat_can, Command: python pipeline_vizrrt.py 010_potted_meat_can 0
+Result: Failure
+
+Object: 006_mustard_bottle, Command: python pipeline_vizrrt.py 006_mustard_bottle 0
+Result: Unexpected Output
+
+Object: 006_mustard_bottle, Command: python pipeline_vizrrt.py 006_mustard_bottle 1
+Result: Failure
+
+Object: 006_mustard_bottle, Command: python pipeline_vizrrt.py 006_mustard_bottle 0
+Result: Unexpected Output
+
+Object: 006_mustard_bottle, Command: python pipeline_vizrrt.py 006_mustard_bottle 1
+Result: Unexpected Output
+
+Object: 006_mustard_bottle, Command: python pipeline_vizrrt.py 006_mustard_bottle 0
+Result: Unexpected Output
+
+Object: 006_mustard_bottle, Command: python pipeline_vizrrt.py 006_mustard_bottle 1
+Result: Unexpected Output
+
+Object: 006_mustard_bottle, Command: python pipeline_vizrrt.py 006_mustard_bottle 2
+Result: Unexpected Output
+
+Object: 006_mustard_bottle, Command: python pipeline_vizrrt.py 006_mustard_bottle 3
+Result: Unexpected Output
+
+Object: 006_mustard_bottle, Command: python pipeline_vizrrt.py 006_mustard_bottle 4
+Result: Unexpected Output
+
+Object: 006_mustard_bottle, Command: python pipeline_vizrrt.py 006_mustard_bottle 5
+Result: Unexpected Output
+
+Object: 002_master_chef_can, Command: python pipeline_vizrrt.py 002_master_chef_can 0
+Result: Success
+Object: 003_cracker_box, Command: python pipeline_vizrrt.py 003_cracker_box 0
+Result: Failure
+
+Object: 003_cracker_box, Command: python pipeline_vizrrt.py 003_cracker_box 1
+Result: Success
+Object: 004_sugar_box, Command: python pipeline_vizrrt.py 004_sugar_box 0
+Result: Success
+Object: 005_tomato_soup_can, Command: python pipeline_vizrrt.py 005_tomato_soup_can 0
+Result: Success
+Object: 006_mustard_bottle, Command: python pipeline_vizrrt.py 006_mustard_bottle 0
+Result: Unexpected Output
+
+Object: 003_cracker_box006_mustard_bottle, Command: python pipeline_vizrrt.py 003_cracker_box006_mustard_bottle 0
+Result: Unexpected Output
+
+Object: 003_cracker_box006_mustard_bottle, Command: python pipeline_vizrrt.py 003_cracker_box006_mustard_bottle 1
+Result: Unexpected Output
+
+Object: 003_cracker_box006_mustard_bottle, Command: python pipeline_vizrrt.py 003_cracker_box006_mustard_bottle 2
+Result: Unexpected Output
+
